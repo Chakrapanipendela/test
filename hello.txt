@@ -1,2 +1,11 @@
 print hello world
 next file
+dada\\\a
+
+da
+da
+da
+a
+da
+da
+d
